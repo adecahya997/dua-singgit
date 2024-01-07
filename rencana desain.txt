@@ -4,6 +4,8 @@ rencana desain
 -gimp
 -inkscape
   *desain logo
+    ^logo
+    ^3D
   *desain gambar
--paint
+    ^foto
 -canva
