@@ -4,6 +4,8 @@ rencana desain
 -gimp
 -inkscape
   *desain logo
+    ^stiker
+    ^poster
   *desain gambar
 -paint
 -canva
