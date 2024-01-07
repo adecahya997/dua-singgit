@@ -1,0 +1,8 @@
+rencana desain
+
+-kdenlive
+-gimp
+-inkscape
+  *desain logo
+  *desain gambar
+-paint
