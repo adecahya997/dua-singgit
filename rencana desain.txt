@@ -6,3 +6,4 @@ rencana desain
   *desain logo
   *desain gambar
 -paint
+-canva
