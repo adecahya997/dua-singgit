@@ -1,0 +1,6 @@
+rencana desain
+
+-kdenlive
+-gimp
+-inkscape
+-paint
